@@ -4,8 +4,7 @@ This is a web application that allows users to register, login, and maintain per
 
 ## Installation
 
-To install this application, you will need to have Node.js and npm installed on your system. You will also need to run the following command to install the necessary dependencies:
-
+To install this application, you will need to have Node.js and npm installed on your system. 
 
 ## Functionality
 
